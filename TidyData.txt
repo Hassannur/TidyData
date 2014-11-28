@@ -1,17 +1,41 @@
 "x"
-0.27717388
--0.017161624
--0.10859642
--0.94303003
--0.83503193
--0.85077295
-0.92179307
--0.14355124
-0.03680105
--0.98185253
--0.97587663
--0.96654446
-0.075974845
-0.010752703
--0.0011592989
--0.95130285
+"tBodyAcc-mean()-X" 0.27717388
+"tBodyAcc-mean()-Y" -0.017161624
+"tBodyAcc-mean()-Z" -0.10859642
+"tBodyAcc-std()-X" -0.94303003
+"tBodyAcc-std()-Y" -0.83503193
+"tBodyAcc-std()-Z" -0.85077295
+"tGravityAcc-mean()-X" 0.92179307
+"tGravityAcc-mean()-Y" -0.14355124
+"tGravityAcc-mean()-Z" 0.03680105
+"tGravityAcc-std()-X" -0.98185253
+"tGravityAcc-std()-Y" -0.97587663
+"tGravityAcc-std()-Z" -0.96654446
+"tBodyAccJerk-mean()-X" 0.075974845
+"tBodyAccJerk-mean()-Y" 0.010752703
+"tBodyAccJerk-mean()-Z" -0.0011592989
+"tBodyAccJerk-std()-X" -0.95130285
+"tBodyAccJerk-std()-Y" -0.92504404
+"tBodyAccJerk-std()-Z" -0.95427861
+"tBodyGyro-mean()-X" -0.027762646
+"tBodyGyro-mean()-Y" -0.074767602
+"tBodyGyro-mean()-Z" 0.086261317
+"tBodyGyro-std()-X" -0.90159356
+"tBodyGyro-std()-Y" -0.9105644
+"tBodyGyro-std()-Z" -0.88192059
+"tBodyGyroJerk-mean()-X" -0.09824338
+"tBodyGyroJerk-mean()-Y" -0.040556805
+"tBodyGyroJerk-mean()-Z" -0.054554317
+"tBodyGyroJerk-std()-X" -0.93480864
+"tBodyGyroJerk-std()-Y" -0.95478851
+"tBodyGyroJerk-std()-Z" -0.95031422
+"tBodyAccMag-mean()" -0.87463491
+"tBodyAccMag-std()" -0.84370796
+"tGravityAccMag-mean()" -0.87463491
+"tGravityAccMag-std()" -0.84370796
+"tBodyAccJerkMag-mean()" -0.94809484
+"tBodyAccJerkMag-std()" -0.92883947
+"tBodyGyroMag-mean()" -0.82228682
+"tBodyGyroMag-std()" -0.82588331
+"tBodyGyroJerkMag-mean()" -0.95593685
+"tBodyGyroJerkMag-std()" -0.94030231
