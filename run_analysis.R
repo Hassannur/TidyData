@@ -26,7 +26,7 @@ TidyData <- sapply(mergedData, median)
 
 ## exporting TidyData
 
-write.table(TidyData, "TidyData.txt", row.name=FALSE ) 
+write.table(TidyData, "TidyData.txt") 
 
 
 
