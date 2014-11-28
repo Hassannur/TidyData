@@ -1,3 +1,22 @@
 Tidy Data contains following files excluding raw Sumsang Data: 1)run_analysis.R - an R script file used to process the Sumsang Data,
-2) CodeBook - this file, 3)Readme file - provides a description of data and 4) TidyData.txt - output file of run_analysis.R.
+2) CodeBook - describe contents in TidyData.txt 3)Readme file - provides a description of data and 4) TidyData.txt - output file of run_analysis.R.
 
+Variables in TidyData.txt
+
+tBodyAcc-XYZ - 
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
